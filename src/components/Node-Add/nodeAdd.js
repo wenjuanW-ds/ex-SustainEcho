@@ -2,7 +2,7 @@ import React from 'react'
 import {Button, Toolbar,TextField} from "@material-ui/core";
 import PropTypes from 'prop-types'
 
-import { green, purple } from '@material-ui/core/colors';
+
 
 export default class NodeAdd extends React.Component{
 
